@@ -1,0 +1,61 @@
+﻿@model IEnumerable<UnibucWebAgentFrontend.Models.Connection>
+@{
+    ViewData["Title"] = "Connections";
+}
+<h1>@ViewData["Title"]</h1>
+
+<h4>Connections established between Unibuc and students</h4>
+
+<a id="create_connection" href="#CreateConnectionModal" data-toggle="modal" style="text-decoration:none">New Connection</a>
+
+    <br />
+    <br />
+
+    @foreach (var connection in Model)
+    {
+        <div>
+            <h6 class="text-center text-md-left">Alias: @connection.alias (Peer DID: @connection.their_did)</h6>
+            <ul class="d-md-flex flex-wrap">
+                <li class="mr-md-5">
+                    <i class="mr-2"></i>Connection ID: @connection.connection_id
+                </li>
+                <li class="mr-md-5">
+                    <i class="mr-2"></i>Date created: @connection.created_at
+                </li>
+                <li class="mr-md-5">
+                    <i class="mr-2"></i>State: @connection.rfc23_state
+                </li>
+                <li class="mr-md-5">
+                    <i class="mr-2"></i>User agent: @connection.their_label
+                </li>
+            </ul>
+            <div class="flex-row">
+                <a class="btn btn-primary mr-3" asp-route-id="@connection.connection_id" asp-controller="Home" asp-action="SendMessagePage">Send a message</a>
+                <a class="btn btn-danger" asp-route-id="@connection.connection_id" asp-controller="Home" asp-action="DeleteConnection">Delete this connection</a>
+            </div>
+        </div>
+        <hr />
+    }
+
+    <div id="CreateConnectionModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form method="get" asp-controller="Home" asp-action="CreateConnection">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Create a new connection</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Enter a student ID to reference this connection</label>
+                            <input type="text" class="form-control" required="required" name="alias" />
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-default" data-dismiss="modal" value="Cancel" />
+                        <input type="Submit" class="btn btn-info" value="Create" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>

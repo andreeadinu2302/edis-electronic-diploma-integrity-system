@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Send a message";
+}
+<h1>@ViewData["Title"]</h1>
+
+<h4>Send a message to connection @ViewBag.id</h4>
+
+<form method="post" asp-action="SendMessage" asp-controller="Home">
+    <input type="hidden" value="@ViewBag.id" name="id"/>
+    <div class="form-group">
+        <label for="exampleFormControlTextarea1">Enter the message</label>
+        <textarea class="form-control" name="content" rows="5"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+</form>

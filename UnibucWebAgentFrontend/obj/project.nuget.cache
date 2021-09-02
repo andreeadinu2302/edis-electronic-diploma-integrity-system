@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5O6JF/w//Erawlzid7W4+Bo59JhZWfBozUs/WJlwcyiF0sAP7jaQxRTlAyzkDNkQLMyQrDN/2uduM/HxMDZnw==",
+  "success": true,
+  "projectFilePath": "/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend.csproj",
+  "expectedPackageFiles": [
+    "/Users/andreeadinu/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/andreeadinu/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "/Users/andreeadinu/.nuget/packages/qrcoder/1.4.1/qrcoder.1.4.1.nupkg.sha512",
+    "/Users/andreeadinu/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

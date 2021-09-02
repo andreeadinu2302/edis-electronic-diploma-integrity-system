@@ -1,0 +1,37 @@
+﻿@model IEnumerable<UnibucWebAgentFrontend.Models.Connection>
+@{
+    ViewData["Title"] = "Emitere Adeverinta Student";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="post" asp-action="IssueAdeverinta" asp-controller="Home">
+    <div class="form-group">
+        <label class="control-label">Anul de studiu</label>
+        <select name="an_studiu" class="form-control">
+            <option value="Anul I">Anul I</option>
+            <option value="Anul II">Anul II</option>
+            <option value="Anul III">Anul III</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Programul de studii</label>
+        <select name="program_studii" class="form-control">
+            <option value="Licenta">Licenta</option>
+            <option value="Master">Master</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Facultatea</label>
+        <select name="faculty" class="form-control">
+            <option value="Matematica si Informatica">Matematica si Informatica</option>
+            <option value="Geografie">Geografie</option>
+            <option value="Istorie">Istorie</option>
+            <option value="Fizica">Fizica</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Conexiunea</label>
+        @Html.DropDownListFor(model => Model, new SelectList(Model, "connection_id", "alias"), new { @class = "form-control", @name = "connection_id" })
+    </div>
+    <button type="submit" class="btn btn-block btn-primary">Emite</button>
+</form>

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend.csproj": {}
+  },
+  "projects": {
+    "/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend.csproj",
+        "projectName": "UnibucWebAgentFrontend",
+        "projectPath": "/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend.csproj",
+        "packagesPath": "/Users/andreeadinu/.nuget/packages/",
+        "outputPath": "/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andreeadinu/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "QRCoder": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

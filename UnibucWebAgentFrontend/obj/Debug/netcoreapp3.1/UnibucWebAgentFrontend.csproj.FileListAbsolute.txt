@@ -1,0 +1,187 @@
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.exe
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.deps.json
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.json
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.dev.json
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.dll
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.AssemblyReference.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfoInputs.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfo.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CoreCompileInputs.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.Manifest.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.xml
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/scopedcss/bundle/UnibucWebAgentFrontend.styles.css
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.input.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.output.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorCoreGenerate.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Connections.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.genruntimeconfig.cache
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CopyComplete
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/CreateConnection.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/QRCoder.dll
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Issue.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/SendMessagePage.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/AdeverintaStudent.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/IssueAdeverinta.cshtml.g.cs
+C:/Users/paulvasile/source/repos/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/DiplomaStudent.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.exe
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.deps.json
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.json
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.dev.json
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.dll
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/QRCoder.dll
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.AssemblyReference.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfoInputs.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfo.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CoreCompileInputs.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.Manifest.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.xml
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/scopedcss/bundle/UnibucWebAgentFrontend.styles.css
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.input.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.output.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorCoreGenerate.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/AdeverintaStudent.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Connections.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/CreateConnection.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/DiplomaStudent.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Issue.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/IssueAdeverinta.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/SendMessagePage.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CopyComplete
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.genruntimeconfig.cache
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/IssueDiploma.cshtml.g.cs
+C:/Users/paulc_9u4s5iv/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Verify.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.exe
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.deps.json
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.json
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.dev.json
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.dll
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/QRCoder.dll
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.AssemblyReference.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfoInputs.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfo.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CoreCompileInputs.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.Manifest.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.xml
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/scopedcss/bundle/UnibucWebAgentFrontend.styles.css
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.input.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.output.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorCoreGenerate.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/AdeverintaStudent.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Connections.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/CreateConnection.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/DiplomaStudent.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Issue.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/IssueAdeverinta.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/IssueDiploma.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/SendMessagePage.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Verify.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cache
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cs
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CopyComplete
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+C:/Users/paulvasile/Desktop/net core projects/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.genruntimeconfig.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.deps.json
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.json
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.runtimeconfig.dev.json
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.dll
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/bin/Debug/netcoreapp3.1/QRCoder.dll
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.AssemblyReference.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfoInputs.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.AssemblyInfo.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CoreCompileInputs.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.MvcApplicationPartsAssemblyInfo.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorAssemblyInfo.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.Manifest.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/staticwebassets/UnibucWebAgentFrontend.StaticWebAssets.xml
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/scopedcss/bundle/UnibucWebAgentFrontend.styles.css
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.input.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.TagHelpers.output.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorCoreGenerate.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/AdeverintaStudent.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Connections.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/CreateConnection.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/DiplomaStudent.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Issue.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/IssueAdeverinta.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/IssueDiploma.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/SendMessagePage.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Home/Verify.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cache
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.RazorTargetAssemblyInfo.cs
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.Views.pdb
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.csproj.CopyComplete
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.dll
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.pdb
+/Users/andreeadinu/Desktop/UnibucWebAgentFrontend/UnibucWebAgentFrontend/UnibucWebAgentFrontend/obj/Debug/netcoreapp3.1/UnibucWebAgentFrontend.genruntimeconfig.cache
